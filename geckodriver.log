@@ -1,0 +1,719 @@
+1642997891891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileMpUnRj"
+1642997892879	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileMpUnRj\\search.json.mozlz4", (void 0)))
+1642997896731	Marionette	INFO	Listening on port 19680
+1642997897247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript error: https://sbembed.me/js/xupload.js, line 266: ReferenceError: $ is not defined
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642998541573	Marionette	INFO	Stopped listening on port 19680
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642999547253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileNchAnQ"
+1642999548040	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileNchAnQ\\search.json.mozlz4", (void 0)))
+1642999551740	Marionette	INFO	Listening on port 6284
+1642999552110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642999569765	Marionette	INFO	Stopped listening on port 6284
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642999600186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileBDE0s7"
+1642999601023	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileBDE0s7\\search.json.mozlz4", (void 0)))
+1642999604786	Marionette	INFO	Listening on port 6423
+1642999605007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642999617157	Marionette	INFO	Stopped listening on port 6423
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642999669609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofile5npY10"
+1642999670407	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofile5npY10\\search.json.mozlz4", (void 0)))
+1642999673871	Marionette	INFO	Listening on port 6658
+1642999673937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+1642999738133	Marionette	INFO	Stopped listening on port 6658
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643000013295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileIoECR5"
+1643000014082	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileIoECR5\\search.json.mozlz4", (void 0)))
+1643000017822	Marionette	INFO	Listening on port 7513
+1643000018132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://www.gstatic.com/recaptcha/releases/TDBxTlSsKAUm3tSIa0fwIqNu/styles__ltr.css without a browsingContextID set
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 335))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:335:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:733:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:242:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:650:12
+
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 335))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:335:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:733:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:242:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:650:12
+
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 335))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:335:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:733:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:242:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:650:12
+
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 335))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:335:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:733:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:242:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:650:12
+
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 335))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:335:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:733:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:242:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:650:12
+
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Can not send request 'hide' because front 'customhighlighter' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 335))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:335:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:733:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:242:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:650:12
+
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1643000434399	Marionette	INFO	Stopped listening on port 7513
+console.error: PushServiceWebSocket: 
+  _beginWSSetup: Not in shutdown state! Current state
+  2
+1643000547433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileEsKlN9"
+1643000548240	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileEsKlN9\\search.json.mozlz4", (void 0)))
+1643000551799	Marionette	INFO	Listening on port 8619
+1643000552256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+1643001122722	Marionette	INFO	Stopped listening on port 8619
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643001181707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileb5c9Lx"
+1643001182489	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileb5c9Lx\\search.json.mozlz4", (void 0)))
+1643001186143	Marionette	INFO	Listening on port 9475
+1643001186537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+1643001702038	Marionette	INFO	Stopped listening on port 9475
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643001903637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileUIw4TX"
+1643001904467	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileUIw4TX\\search.json.mozlz4", (void 0)))
+1643001908333	Marionette	INFO	Listening on port 10780
+1643001908456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+1643001956641	Marionette	INFO	Stopped listening on port 10780
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643001991025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofilezK9uyt"
+1643001991811	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofilezK9uyt\\search.json.mozlz4", (void 0)))
+1643001995387	Marionette	INFO	Listening on port 1088
+1643001995863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+1643002034451	Marionette	INFO	Stopped listening on port 1088
+console.error: PushServiceWebSocket: 
+  _beginWSSetup: Not in shutdown state! Current state
+  3
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643002071635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofilexCpm2u"
+1643002072631	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofilexCpm2u\\search.json.mozlz4", (void 0)))
+1643002076602	Marionette	INFO	Listening on port 1291
+1643002076973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+1643002111105	Marionette	INFO	Stopped listening on port 1291
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 8884, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1643002146396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileuSywBm"
+1643002147235	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileuSywBm\\search.json.mozlz4", (void 0)))
+1643002151138	Marionette	INFO	Listening on port 1491
+1643002151227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+1643002190665	Marionette	INFO	Stopped listening on port 1491
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 11632, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1643002314643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofiled0A2VD"
+1643002315599	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofiled0A2VD\\search.json.mozlz4", (void 0)))
+1643002319030	Marionette	INFO	Listening on port 1804
+1643002319480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+1643002355757	Marionette	INFO	Stopped listening on port 1804
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643002411862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofile7VnXCk"
+1643002412669	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofile7VnXCk\\search.json.mozlz4", (void 0)))
+1643002416250	Marionette	INFO	Listening on port 2100
+1643002416674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+1643002462786	Marionette	INFO	Stopped listening on port 2100
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643002505253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofilewJSXHK"
+1643002506046	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofilewJSXHK\\search.json.mozlz4", (void 0)))
+1643002509521	Marionette	INFO	Listening on port 2391
+1643002509560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+1643002617395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileNlZ3p4"
+1643002618216	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileNlZ3p4\\search.json.mozlz4", (void 0)))
+1643002624014	Marionette	INFO	Listening on port 1105
+1643002624370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+1643002871401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileTgX3rG"
+1643002872249	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileTgX3rG\\search.json.mozlz4", (void 0)))
+1643002875736	Marionette	INFO	Listening on port 1569
+1643002876259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+1643002943269	Marionette	INFO	Stopped listening on port 1569
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643002978058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofilejoyhw4"
+1643002978858	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofilejoyhw4\\search.json.mozlz4", (void 0)))
+1643002982356	Marionette	INFO	Listening on port 1833
+1643002982411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+1643003037201	Marionette	INFO	Stopped listening on port 1833
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643003105278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofile3V8NQm"
+1643003106074	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofile3V8NQm\\search.json.mozlz4", (void 0)))
+1643003109583	Marionette	INFO	Listening on port 2105
+1643003109656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643003142718	Marionette	INFO	Stopped listening on port 2105
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643003972778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofilewKI6yB"
+1643003973612	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofilewKI6yB\\search.json.mozlz4", (void 0)))
+1643003977428	Marionette	INFO	Listening on port 1980
+1643003977606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1643007196555	Marionette	INFO	Stopped listening on port 1980
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643007437305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofilegqaBWU"
+1643007438497	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofilegqaBWU\\search.json.mozlz4", (void 0)))
+1643007442779	Marionette	INFO	Listening on port 1789
+1643007443157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1643008076062	Marionette	INFO	Stopped listening on port 1789
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643008303322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofile2xwFmu"
+1643008304224	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofile2xwFmu\\search.json.mozlz4", (void 0)))
+1643008307912	Marionette	INFO	Listening on port 2715
+1643008308133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1643009071969	Marionette	INFO	Stopped listening on port 2715
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643009088076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofile3sG4xL"
+1643009089027	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofile3sG4xL\\search.json.mozlz4", (void 0)))
+1643009093648	Marionette	INFO	Listening on port 3567
+1643009093937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643009343228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofiled5TQI5"
+1643009344008	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofiled5TQI5\\search.json.mozlz4", (void 0)))
+1643009347450	Marionette	INFO	Listening on port 1114
+1643009347543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1643010640392	Marionette	INFO	Stopped listening on port 1114
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643010800971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileHN3DD3"
+1643010802043	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adlai\\AppData\\Local\\Temp\\rust_mozprofileHN3DD3\\search.json.mozlz4", (void 0)))
+1643010805695	Marionette	INFO	Listening on port 16321
+1643010805790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sbembed.me"
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 26: TypeError: response is undefined
+JavaScript error: https://sbembed.me/xfst_js/main.js, line 1: TypeError: $(...).tooltip is not a function
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://spanuletubings.com/gWAFOUfeBeLEq/40913, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1643011401849	Marionette	INFO	Stopped listening on port 16321
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
